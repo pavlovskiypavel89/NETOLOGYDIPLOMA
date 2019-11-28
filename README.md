@@ -1,4 +1,4 @@
-# NETOLOGYDIPLOMA
+# NETOLOGY DIPLOMA
 Мои дипломы Нетологии
 <ol>
   <li><a href="/NETOLOGYDIPLOMA/blob/master/HTML%20LAYOUT%20CREATED.pdf">HTML-ВЕРСТКА: С НУЛЯ ДО ПЕРВОГО МАКЕТА</a>
