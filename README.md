@@ -1,5 +1,5 @@
 # NETOLOGY DIPLOMA
-Мои дипломы Нетологии
+Мои дипломы о прохождении годового курса обучения профессии Frontend-разработчик:
 <ol>
   <li><a href="/NETOLOGYDIPLOMA/blob/master/HTML%20LAYOUT%20CREATED.pdf">HTML-ВЕРСТКА: С НУЛЯ ДО ПЕРВОГО МАКЕТА</a>
   <li><a href="/NETOLOGYDIPLOMA/blob/master/JS%20SYNTAX%20LEARNED.pdf">JAVASCRIPT: СОВРЕМЕННЫE ВОЗМОЖНОСТИ ЯЗЫКА</a>
